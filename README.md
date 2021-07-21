@@ -1,4 +1,4 @@
-# Hello, guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# ----- Hello, guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Jessica, I'm 26 years old and I work at Iupp Itaú 💙🧡
 
