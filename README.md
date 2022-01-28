@@ -1,6 +1,6 @@
 # ----- Hello, guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Jessica, I'm 26 years old and I work at iupp Itaú 💙🧡
+My name is Jessica, I'm 26 years old and I work at Itaú 💙🧡
 
 - 👀 I’m interested in front-end tool studies
 - 🌱 I’m currently learning documetation flutter and ReactJS  
