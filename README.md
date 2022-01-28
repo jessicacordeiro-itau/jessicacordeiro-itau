@@ -3,7 +3,7 @@
 My name is Jessica, I'm 26 years old and I work at iupp Itaú 💙🧡
 
 - 👀 I’m interested in front-end tool studies
-- 🌱 I’m currently learning documetation flutter 
+- 🌱 I’m currently learning documetation flutter and ReactJS  
 - 💞️ I'm looking to collaborate with cool ideas to implement new technologies.
 - 📫 How to reach me <a href="https://www.linkedin.com/in/jessica-a-cordeiro/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
